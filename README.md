@@ -1,14 +1,44 @@
-# biblia-app :ledger:
-<p>Desafio biblia em react native. <p>
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/67429807/91330399-be7e8380-e79f-11ea-983d-9d68c151069f.png" width="250"  />
-    <img src="https://user-images.githubusercontent.com/67429807/91333381-e839a980-e7a3-11ea-9d8d-fcc1adea7a72.png" width="250" />
-    <img src="https://user-images.githubusercontent.com/67429807/91333594-2767fa80-e7a4-11ea-9628-0633137e11df.png" width="250" />  
-    <img src="https://user-images.githubusercontent.com/67429807/91333740-5da57a00-e7a4-11ea-90fb-d9b0c4cd4ccd.png" width="250" />  
-    <img src="https://user-images.githubusercontent.com/67429807/91333993-bb39c680-e7a4-11ea-8ee3-e78fca99cac3.png" width="250" />  
- </h1>
+    biblia-app :ledger:
+</h1>
 
-Dentro do diretório, você pode rodar:
-<br>
-# npx react-native run-android
-lembrando que o o emulador precisa estar ligado.
+<p align="center">
+  <a href="tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67429807/91333594-2767fa80-e7a4-11ea-9628-0633137e11df.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/67429807/91333740-5da57a00-e7a4-11ea-90fb-d9b0c4cd4ccd.png" width="250" />
+</p>
+
+
+<h1 id="tecnologias"> 🚀 Tecnologias</h1>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React Native ](https://nodejs.org/en/)
+- [React Native CLI](https://github.com/react-native-community/cli)
+- [Styled Components](https://styled-components.com/)
+- [API BibliaJSON](https://github.com/thiagobodruk/biblia)
+
+## 💻 Projeto
+
+Biblia-app é um aplicativo propriamente dito, da biblia sagrada, com intuito de levar a biblia ao mundo digital. Sendo ela totalmente desenvolvida por minha pessoa.   
+
+<h1>🔖 Layout</h1>
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7dhGkQ5Ry5lDlJp2MZlDux/Untitled?node-id=0%3A1).
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
+Para rodar o aplicativo em seu emulador android, execute:
+
+<h2> npx react-native run-android </h2>
+
+Lembrando que o o emulador precisa estar ligado.
